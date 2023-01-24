@@ -9,7 +9,7 @@ Products = data
 # Change 'Store's Stock' to the name of your store
 print("Store's Stock.")
 print(Products)
-print("Commands: Use 'save' to save your edited list, 'close' to close the app, 'list' to see the list,'add' to add the product and 'remove' to remove the product.")
+print("Commands: Use 'save' to save your edited list, 'close' to close the app, 'list' to see the list, 'add' to add the product and 'remove' to remove the product.")
 while True:
     choice1 = input("What do you want to do? -> ")
     if choice1 == 'add':
